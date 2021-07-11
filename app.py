@@ -97,12 +97,7 @@ if __name__ == '__main__':
 # In[1]:
 
 
-import os
-import sys
-import glob # Save the file to ./uploads
-path= r'C:\Users\rakes\Desktop\Deep-Learning-Car-Brand-master\uploads'
-basepath = os.path.dirname(path)
-print(basepath)
+
 
 
 # In[ ]:
